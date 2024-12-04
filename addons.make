@@ -1,1 +1,3 @@
+ofxJSON
+ofxMaxim
 ofxMidi
